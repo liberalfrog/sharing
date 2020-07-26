@@ -30,6 +30,6 @@
     "sqlite3": "^4.0.9"
   },
   "devDependencies": {
-    "sequelize-cli": "^5.5.0"
+    "sequelize-cli": "^5.5.1"
   }
 }
