@@ -1,6 +1,7 @@
 {
-  "name": "sharing",
-  "version": "1.0.0",
+  "private": true,
+  "name": "sharing-server",
+  "version": "0.1.0",
   "description": "URL Sharing for RDB",
   "main": "index.js",
   "scripts": {
@@ -17,7 +18,7 @@
     "Sharing",
     "URLSharing"
   ],
-  "author": "LFrog (Kazuki Nagai)",
+  "author": "LFrog",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/liberalfrog/sharing/issues"
