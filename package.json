@@ -1,6 +1,7 @@
 {
-  "name": "sharing",
-  "version": "1.0.0",
+  "private": true,
+  "name": "sharing-server",
+  "version": "0.1.0",
   "description": "URL Sharing for RDB",
   "main": "index.js",
   "scripts": {
@@ -17,19 +18,19 @@
     "Sharing",
     "URLSharing"
   ],
-  "author": "LFrog (Kazuki Nagai)",
+  "author": "LFrog",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/liberalfrog/sharing/issues"
   },
   "homepage": "https://github.com/liberalfrog/sharing#readme",
   "dependencies": {
-    "babel-cli": "^6.26.0",
-    "babel-preset-env": "^1.7.0",
     "sequelize": "^5.10.1",
     "sqlite3": "^4.0.9"
   },
   "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0",
     "sequelize-cli": "^5.5.1"
   }
 }
